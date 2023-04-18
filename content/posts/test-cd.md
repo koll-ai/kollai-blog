@@ -13,8 +13,5 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-## Introduction
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+This post should be automaticaly posted
